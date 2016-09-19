@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>하남철거</title>
+    <link>http://ha.merrymen.xyz/</link>
+    <description>하남시 덕풍동위치.철거업체 공장 건물 사무실 원상복구 마루바닥 인테리어</description>
+    <language>ko</language>
+    <pubDate>Tue, 20 Sep 2016 03:41:25 +0900</pubDate>
+    <generator>Jekyll v3.2.1</generator>
+    <managingEditor>하남철거</managingEditor>
+    
+      <item>
+        <title>하남철거</title>
+        <link>http://ha.merrymen.xyz/posts/2016/09/19/post.html</link>
+        
+        	<description>&lt;p&gt;안녕하세요. 친환경 철거를 전문적으로 하는 하남철거 입니다.
+모든 서비스를 동시에 진행함으로 시공비 절감을!
+철거의 모든 업무를 처리할 수 있는 하남철거로 철거 서비스를 경험해보세요.&lt;/p&gt;
+</description>
+        
+        
+        
+        <category>posts/</category>
+        <guid>http://ha.merrymen.xyz/posts/2016/09/19/post.html</guid>
+        <pubDate>Mon, 19 Sep 2016 10:00:00 +0900</pubDate>
+        
+      </item>
+    
+      <item>
+        <title>회사소개</title>
+        <link>http://ha.merrymen.xyz/about</link>
+        <description></description>
+        <guid>http://ha.merrymen.xyz/about</guid>
+        <pubDate>Tue, 20 Sep 2016 03:41:25 +0900</pubDate>
+      </item>
+      <item>
+        <title>사업안내</title>
+        <link>http://ha.merrymen.xyz/business</link>
+        <description></description>
+        <guid>http://ha.merrymen.xyz/business</guid>
+        <pubDate>Tue, 20 Sep 2016 03:41:25 +0900</pubDate>
+      </item>
+  </channel>
+</rss>
